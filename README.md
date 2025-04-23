@@ -16,3 +16,7 @@ A hobby smoke simulation system implemented using C++ and CUDA for GPU accelerat
 - CUDA Toolkit 12.0 or newer
 - C++20 compatible compiler
 - CMake 3.24 or newer
+
+## Acknowledgments
+
+Thanks to [archibate](https://github.com/archibate) for offering clear and easy to understand tutorials!
